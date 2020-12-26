@@ -1,6 +1,6 @@
 # personal_expenses
 
-A new Flutter application.
+An app to track personal expenses. Has a bar chart to display the ratio of spendings in last 7 days.
 
 ## Getting Started
 
