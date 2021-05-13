@@ -8,4 +8,6 @@ It is a cross-platform app for keeping track of personal expenses. It has a numb
 - Custom build bar chart
 - Easy to use functions
 
-# Screenshots
+# App Screenshots
+
+<img src="screenshots/1.jpeg" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/2.jpeg" height="400" ><br /><img src="screenshots/3.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/4.jpeg" height="400" >
